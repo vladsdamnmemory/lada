@@ -2,7 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cccd1b5d-bfd9-421a-93c5-65ae7d62dba0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/js/paint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00025.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00026.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00027.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00028.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00029.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00030.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00031.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00032.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00033.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00034.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/car/lvc_00035.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.scss" afterDir="false" />
@@ -16,26 +50,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="styles.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/styles.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="73" column="20" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -71,10 +86,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1667" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1838" />
     <option name="y" value="23" />
-    <option name="width" value="1480" />
+    <option name="width" value="1838" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -91,39 +106,6 @@
             <path>
               <item name="lada" type="b2602c69:ProjectViewProjectNode" />
               <item name="lada" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="lada" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lada" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="lada" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lada" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="styles.scss" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="lada" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lada" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="lada" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lada" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="backgrounds" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="lada" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lada" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="cursor" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="lada" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lada" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -147,12 +129,15 @@
     <property name="settings.editor.splitter.proportion" value="0.3184466" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/video" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/car" />
       <recent name="$PROJECT_DIR$/music" />
       <recent name="$PROJECT_DIR$/video" />
       <recent name="$PROJECT_DIR$/fonts" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -177,7 +162,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527673258306</updated>
-      <workItem from="1527673268533" duration="15902000" />
+      <workItem from="1527673268533" duration="24403000" />
     </task>
     <task id="LOCAL-00001" summary="Start creative">
       <created>1527675190172</created>
@@ -193,23 +178,30 @@
       <option name="project" value="LOCAL" />
       <updated>1527686800739</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Got some progress">
+      <created>1527699903435</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1527699903463</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15902000" />
+    <option name="totallyTimeSpent" value="24403000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1667" y="23" width="1480" height="1057" extended-state="0" />
+    <frame x="-1846" y="23" width="1846" height="1057" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.19743863" />
+      <window_info anchor="bottom" id="Terminal" weight="0.19743863" />
       <window_info anchor="right" id="Remote Host" weight="0.32964602" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18011126" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14356984" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -233,7 +225,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Start creative" />
     <MESSAGE value="All units are ready" />
-    <option name="LAST_COMMIT_MESSAGE" value="All units are ready" />
+    <MESSAGE value="Got some progress" />
+    <option name="LAST_COMMIT_MESSAGE" value="Got some progress" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -305,15 +298,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+        <state relative-caret-position="401">
+          <caret line="27" column="58" lean-forward="true" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="73" column="20" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
+        <state relative-caret-position="154">
+          <caret line="158" column="11" lean-forward="true" selection-start-line="158" selection-start-column="11" selection-end-line="158" selection-end-column="11" />
         </state>
       </provider>
     </entry>
